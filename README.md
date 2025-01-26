@@ -122,7 +122,7 @@ In this example, the modifyArray method modifies the original array because the 
 3. [ Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 4. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 5. [Missing Number](https://leetcode.com/problems/missing-number/)
-6. **Find Min and Max element from an Array using less number of comparisons** - [LeetCode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+6. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
    - Optimizing the number of comparisons to find both minimum and maximum elements is a classic problem.
 
 7. **Reverse An Array** - [LeetCode Link](https://leetcode.com/problems/reverse-string/)
