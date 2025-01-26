@@ -121,7 +121,7 @@ In this example, the modifyArray method modifies the original array because the 
 2. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 3. [ Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 4. [Sort Colors](https://leetcode.com/problems/sort-colors/)
-5. [Missing Number(https://leetcode.com/problems/missing-number/)
+5. [Missing Number](https://leetcode.com/problems/missing-number/)
 6. **Find Min and Max element from an Array using less number of comparisons** - [LeetCode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
    - Optimizing the number of comparisons to find both minimum and maximum elements is a classic problem.
 
