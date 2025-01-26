@@ -120,8 +120,7 @@ In this example, the modifyArray method modifies the original array because the 
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) 
 2. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 3. [ Is Subsequence](https://leetcode.com/problems/is-subsequence/)
-4. **Sort an Array Of 0s, 1s, and 2s** - [LeetCode Link](https://leetcode.com/problems/sort-colors/)
-   - Also known as the Dutch National Flag problem, this requires sorting an array with only three distinct values in a single pass.
+4. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 
 5. **Find Missing Number In An Array** - [LeetCode Link](https://leetcode.com/problems/missing-number/)
    - Identifying a missing number in a sequence, especially with constraints on time and space complexity, can be difficult.
