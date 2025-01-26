@@ -118,9 +118,7 @@ In this example, the modifyArray method modifies the original array because the 
 
 
 1. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) 
-2. **Merge Two Sorted Arrays Without Extra Space** - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/)
-   - Merging two sorted arrays in-place without using additional space is a common but tricky problem.
-
+2. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 3. **Find Whether One Array is Subset of Another Array** - [LeetCode Link](https://leetcode.com/problems/is-subsequence/)
    - Determining if one array is a subset of another, especially when dealing with duplicates and unsorted arrays, can be challenging.
 
