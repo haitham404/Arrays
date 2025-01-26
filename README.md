@@ -80,6 +80,7 @@ At the user level, you don't need to know the memory address of myArray[3]; the 
 In Java, arrays are passed to methods by reference. This means that when you pass an array to a method, you are passing a reference to the original array, not a copy of the array. Any changes made to the array inside the method will affect the original array.
 
 Example:
+```java
 public class Main {
     public static void modifyArray(int[] arr) {
         arr[0] = 99; // Modifies the first element of the array
@@ -91,4 +92,6 @@ public class Main {
         System.out.println(myArray[0]); // Output: 99
     }
 }
+```
+
 In this example, the modifyArray method modifies the original array because the array is passed by reference.
