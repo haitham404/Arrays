@@ -1,7 +1,6 @@
 # Arrays
 
 
-## Implementation Level vs. User Level in Java
 
 Arrays are a fundamental data structure used in programming to store multiple elements of the same type. In Java, arrays are objects, and understanding how they work can be divided into two levels: **Implementation Level** and **User Level**.
 
