@@ -51,27 +51,27 @@ int[] myArray = new int[10]; // myArray is a reference to an array object
 ## 2. User Level
 This level focuses on how programmers interact with arrays in their code. At this level, the complexities of memory management and address arithmetic are abstracted away.
 
-# Array Declaration
+### Array Declaration
 Declaring an array in Java is straightforward:
 
 int[] myArray = new int[10]; // Declares an array of 10 integers
 
 At the user level, you don't need to worry about how memory is allocated or where the array is stored.
 
-# Array Initialization
+### Array Initialization
 You can assign values to array elements using simple syntax:
 
 myArray[0] = 5;   // Assigns 5 to the first element
 myArray[1] = 10;  // Assigns 10 to the second element
 The JVM handles the calculation of memory addresses internally.
 
-# Accessing Array Elements
+### Accessing Array Elements
 Accessing elements is done using the array index:
 
 int value = myArray[3]; // Retrieves the value at index 3
 At the user level, you don't need to know the memory address of myArray[3]; the JVM handles it for you.
 
-# Passing Arrays to Methods
+### Passing Arrays to Methods
 In Java, arrays are passed to methods by reference. This means that when you pass an array to a method, you are passing a reference to the original array, not a copy of the array. Any changes made to the array inside the method will affect the original array.
 
 Example:
