@@ -94,3 +94,46 @@ public class Main {
 ```
 
 In this example, the modifyArray method modifies the original array because the array is passed by reference.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. **Find subArray of given sum with negative numbers** - [Link](#)
+   - This problem requires handling arrays with negative numbers, which adds complexity to finding a subarray with a specific sum.
+
+2. **Merge Two Sorted Arrays Without Extra Space** - [Link](#)
+   - Merging two sorted arrays in-place without using additional space is a common but tricky problem.
+
+3. **Find Whether One Array is Subset of Another Array** - [Link](#)
+   - Determining if one array is a subset of another, especially when dealing with duplicates and unsorted arrays, can be challenging.
+
+4. **Sort an Array Of 0s, 1s, and 2s** - [Link](#)
+   - Also known as the Dutch National Flag problem, this requires sorting an array with only three distinct values in a single pass.
+
+5. **Find Missing Number In An Array** - [Link](#)
+   - Identifying a missing number in a sequence, especially with constraints on time and space complexity, can be difficult.
+
+6. **Find Min and Max element from an Array using less number of comparisons** - [Link](#)
+   - Optimizing the number of comparisons to find both minimum and maximum elements is a classic problem.
+
+7. **Reverse An Array** - [Link](#)
+   - While seemingly simple, reversing an array efficiently, especially in-place, can be a test of understanding basic array manipulation.
