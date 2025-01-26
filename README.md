@@ -18,7 +18,7 @@ When an array is created in Java, the JVM reserves a **contiguous block of memor
 
 The size of the memory block is calculated as:
 
-### Memory size = size of each element × number of elements
+*Memory size = size of each element × number of elements*
 
 For example, if you create an array of 10 integers **(`int[] myArray = new int[10];`)** and each integer occupies 4 bytes, the total memory allocated will be:
 4 bytes × 10 = 40 bytes
