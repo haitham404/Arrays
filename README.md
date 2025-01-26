@@ -52,6 +52,13 @@ int[] myArray = new int[10]; // myArray is a reference to an array object
 This level focuses on how programmers interact with arrays in their code. At this level, the complexities of memory management and address arithmetic are abstracted away.
 
 ### Array Declaration
+
+To declare an array of 10 integers in Java, you can use the following syntax:
+
+```java
+int[] myArray = new int[10]; // Declares an array of 10 integers
+
+
 Declaring an array in Java is straightforward:
 
 int[] myArray = new int[10]; // Declares an array of 10 integers
