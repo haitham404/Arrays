@@ -124,3 +124,4 @@ In this example, the modifyArray method modifies the original array because the 
 5. [Missing Number](https://leetcode.com/problems/missing-number/)
 6. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 7. [Reverse String](https://leetcode.com/problems/reverse-string/)
+8. [Assuit sheet](https://codeforces.com/group/MWSDmqGsZm/contest/219774)
