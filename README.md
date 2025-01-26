@@ -117,23 +117,23 @@ In this example, the modifyArray method modifies the original array because the 
 
 
 
-1. **Find subArray of given sum with negative numbers** - [Link](#)
+1. **Find subArray of given sum with negative numbers** - [LeetCode Link](https://leetcode.com/problems/subarray-sum-equals-k/)
    - This problem requires handling arrays with negative numbers, which adds complexity to finding a subarray with a specific sum.
 
-2. **Merge Two Sorted Arrays Without Extra Space** - [Link](#)
+2. **Merge Two Sorted Arrays Without Extra Space** - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/)
    - Merging two sorted arrays in-place without using additional space is a common but tricky problem.
 
-3. **Find Whether One Array is Subset of Another Array** - [Link](#)
+3. **Find Whether One Array is Subset of Another Array** - [LeetCode Link](https://leetcode.com/problems/is-subsequence/)
    - Determining if one array is a subset of another, especially when dealing with duplicates and unsorted arrays, can be challenging.
 
-4. **Sort an Array Of 0s, 1s, and 2s** - [Link](#)
+4. **Sort an Array Of 0s, 1s, and 2s** - [LeetCode Link](https://leetcode.com/problems/sort-colors/)
    - Also known as the Dutch National Flag problem, this requires sorting an array with only three distinct values in a single pass.
 
-5. **Find Missing Number In An Array** - [Link](#)
+5. **Find Missing Number In An Array** - [LeetCode Link](https://leetcode.com/problems/missing-number/)
    - Identifying a missing number in a sequence, especially with constraints on time and space complexity, can be difficult.
 
-6. **Find Min and Max element from an Array using less number of comparisons** - [Link](#)
+6. **Find Min and Max element from an Array using less number of comparisons** - [LeetCode Link](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
    - Optimizing the number of comparisons to find both minimum and maximum elements is a classic problem.
 
-7. **Reverse An Array** - [Link](#)
+7. **Reverse An Array** - [LeetCode Link](https://leetcode.com/problems/reverse-string/)
    - While seemingly simple, reversing an array efficiently, especially in-place, can be a test of understanding basic array manipulation.
