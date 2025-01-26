@@ -117,9 +117,8 @@ In this example, the modifyArray method modifies the original array because the 
 
 
 
-1. **Find subArray of given sum with negative numbers** - [LeetCode Link](https://leetcode.com/problems/subarray-sum-equals-k/)
-   - This problem requires handling arrays with negative numbers, which adds complexity to finding a subarray with a specific sum.
-
+1. - [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+   - 
 2. **Merge Two Sorted Arrays Without Extra Space** - [LeetCode Link](https://leetcode.com/problems/merge-sorted-array/)
    - Merging two sorted arrays in-place without using additional space is a common but tricky problem.
 
