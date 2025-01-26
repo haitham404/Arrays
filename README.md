@@ -53,12 +53,6 @@ This level focuses on how programmers interact with arrays in their code. At thi
 
 ### Array Declaration
 
-To declare an array of 10 integers in Java, you can use the following syntax:
-
-```java
-int[] myArray = new int[10]; // Declares an array of 10 integers
-
-
 Declaring an array in Java is straightforward:
 
 int[] myArray = new int[10]; // Declares an array of 10 integers
