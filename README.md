@@ -46,7 +46,9 @@ If the base address of `myArray` is 1000, and each integer occupies 4 bytes:
 In Java, arrays are objects, and the array variable holds a reference to the array object in memory.
 
 For example:
+```java
 int[] myArray = new int[10]; // myArray is a reference to an array object
+
 
 ## 2. User Level
 This level focuses on how programmers interact with arrays in their code. At this level, the complexities of memory management and address arithmetic are abstracted away.
@@ -54,6 +56,7 @@ This level focuses on how programmers interact with arrays in their code. At thi
 ### Array Declaration
 
 Declaring an array in Java is straightforward:
+''java
 
 int[] myArray = new int[10]; // Declares an array of 10 integers
 
