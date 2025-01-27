@@ -101,7 +101,7 @@ In this example, the modifyArray method modifies the original array because the 
 
 ### problems
 
-1. [Remove Duplicates from Sorted Array(https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) 
+1. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) 
 2. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 3. [ Is Subsequence](https://leetcode.com/problems/is-subsequence/)
 4. [Sort Colors](https://leetcode.com/problems/sort-colors/)
